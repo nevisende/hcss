@@ -1,3 +1,7 @@
+header {
+    display: flex;
+}
+
 nav {
     position: fixed;
     top: 0;
